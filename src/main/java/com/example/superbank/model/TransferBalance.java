@@ -1,4 +1,4 @@
-package com.example.superbank;
+package com.example.superbank.model;
 
 import lombok.Data;
 
